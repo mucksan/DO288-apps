@@ -114,6 +114,5 @@ fi
 
 # Fix source directory permissions
 fix-permissions ./
-date "+%F" > welcome.html
-echo "Assembled." >> welcome.html
+echo "welcome" > welcome.html
 
