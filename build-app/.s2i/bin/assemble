@@ -114,5 +114,6 @@ fi
 
 # Fix source directory permissions
 fix-permissions ./
+echo "Modieifed aaaaaaaa" 
 
 
