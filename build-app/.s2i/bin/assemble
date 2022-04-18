@@ -1,0 +1,3 @@
+date "+$F" > welcome.html
+echo "assemletd." >> welcome.html
+
