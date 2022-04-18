@@ -114,7 +114,5 @@ fi
 
 # Fix source directory permissions
 fix-permissions ./
-echo "welcome" > welcome.html
-echo "I modified assemble script"
 
 
